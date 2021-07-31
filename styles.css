@@ -42,6 +42,9 @@ a{
     text-align: left;
     margin-top: 2%;
 }
+.col-sm-12{
+    font-size: 1.34rem;
+    }
 .text-left{
     /* */
 }
